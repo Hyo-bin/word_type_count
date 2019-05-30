@@ -1,5 +1,4 @@
 from django.shortcuts import render
-from selenium import webdriver
 import requests
 from bs4 import BeautifulSoup
 import itertools
